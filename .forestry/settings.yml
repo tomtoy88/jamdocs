@@ -18,6 +18,7 @@ sections:
 - type: document
   path: data/settings.json
   label: Menu
+  read_only: false
 upload_dir: static
 public_path: ''
 front_matter_path: ''
